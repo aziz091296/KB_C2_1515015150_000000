@@ -18,7 +18,7 @@
  e. Mobil yang berwarna merah itu milik Sadek, bermerk BMW.//milik(mobil,sadek),warna(mobil,merah),merek(mobil,BMW).
  f. Awan seorang pemain piano, berasal dari Pontianak bersuku Jawa. //pemain(awan,piano),asal pontianak, suku jawa.
  g. Seseorang dikatakan baik jika mempunyai sifat penyayang dan dermawan.//dikatakan(orang,baik):-sifatnya penyayang,sifat dermawan.
- h. Seseorang dikatakan pintar jika salah satu dari Matematika atau IPA atau IPSmendapat nilai tinggi. //dikatakan(orang,pintar):-dapat(matematika,tinggu); dapat(IPS,tinggi) : dapat(IPA,tinggi).
+ h. Seseorang dikatakan pintar jika salah satu dari Matematika atau IPA atau IPSmendapat nilai tinggi. //dikatakan(orang,pintar):-dapat(matematika,tinggu-); dapat(IPS,tinggi) : dapat(IPA	,tinggi).
  i. Setiap orang pasti mati. //setiap orang mati
 
 
